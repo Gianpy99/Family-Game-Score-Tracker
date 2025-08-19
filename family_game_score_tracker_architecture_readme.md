@@ -56,7 +56,7 @@ A cross‑platform score tracking app for families and friends with real‑time 
 
 ## Architecture Overview
 
-```mermaid
+```
 flowchart LR
     subgraph Client[Flutter App (Web/iOS/Android)]
         UI[UI Widgets]
